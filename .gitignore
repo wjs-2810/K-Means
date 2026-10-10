@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 环境与系统
+.env
+.DS_Store
+__MACOSX/
+
+# 实验中间产物（结果图按需提交，默认保留 results/ 下的输出）
+.ipynb_checkpoints/
+run_log.txt
